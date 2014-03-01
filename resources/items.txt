@@ -1,0 +1,10 @@
+In the first release there are three starting items, aswell as 150 coins.
+
+The coins increase by 50, to 200 when the user enters room9 and uses the stone. The stone is removed from the player's inventory and then the player is awarded 50 coins, making the total to 200. Coins will be used in a later release, where they must all be gambled away in an old abandoned slot machine, where only on the fourth go, when all the money has been spent on it (50c a turn), the player will be awarded a jackpot of 500 coins. This 500c be required to get past a beggar that will only let you pass if you give him these 500 coins. To put the player off track, immediately after the player has talked to the begger, he/she will find 20c on the floor, making them first think that you must find this money. the 20c left over after the 4th turn on the slot machine has no forseable purpose in the game at this stage.
+
+The dagger will used in a room where the description room declares that there is nothing of interest, but the usage of the dagger in this room will remove the dagger from the inventory of the player as it is used as a key, hidden it the wall (hence 'nothing of interest'). This may cause too much frustration, and need to have a better purpose, or to be removed. Please make suggestions and freely dicuss the future of this item.
+
+The Potion is a pure red herring. It is intended that there will be no requirement for it, but this may change deep into the development. Please note that I intend for this to be completely un-used, but I would still apreciate discussion about it.
+
+Any other items you thing would be good to add to the game is highly valued, please send your thoughts to me! Thank you.
+If you are unclear about any part of the project - Just ask!
